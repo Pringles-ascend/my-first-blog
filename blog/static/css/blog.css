@@ -20,7 +20,7 @@ h1, h2, h3, h4 {
 
 .date {
     float: right;
-    color: #828282;
+    color: #228282;
 }
 
 .save {
@@ -40,9 +40,15 @@ h1, h2, h3, h4 {
 
 .post {
     font-family: 'Oswald', sans-serif;
+    font-size: 12pt;
     margin-bottom: 70px;
 }
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.btn-default {
+    float: right;
+    margin-right: 20px;
 }
