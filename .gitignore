@@ -2,5 +2,5 @@
 /analytics_project/
 *.pyc
 __pycache__
-/djangogirls/blog/db.sqlite3
+db.sqlite3
 .DS_Store
